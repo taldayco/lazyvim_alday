@@ -20,6 +20,7 @@ return {
       ["graphql"] = { "prettier" },
       ["handlebars"] = { "prettier" },
       ["svelte"] = { "prettier" },
+      ["c++"] = { "prettier" },
     },
   },
 }
